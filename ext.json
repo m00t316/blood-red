@@ -1,0 +1,19 @@
+{
+  "identifier": "xyz.m00t.blood-red",
+  "name": "Blood Red",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0",
+  "description": "A red theme for Standard Notes",
+  "url": "",
+  "download_url": "",
+  "marketing_url": "https://github.com/m00t316/blood-red",
+  "latest_url": "",
+  "thumbnail_url": "",
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#9E0000",
+    "foreground_color": "#F6F6F6",
+    "border_color": "#FF0011"
+  }
+}
